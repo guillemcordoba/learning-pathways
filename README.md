@@ -24,3 +24,7 @@ When someone climbs a path, it leaves a trail. The learner will give feedback ab
 - The color of the path indicates its difficulty.
 
 When the learners select a skill that they don't have, they can compare the paths that they have available to get there a la google maps, and try to climb it.
+
+## Other features
+
+- Comparing two competencies for certifications to choose which to pursue.
